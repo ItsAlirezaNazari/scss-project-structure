@@ -2,11 +2,14 @@
 
 ## Before use
 ```
-npm install
-sass ./assets/scss:./assets/css
+> npm install
+
+and
+
+> sass ./assets/scss:./assets/css
 ```
 
 ### To watch scss files
 ```
-npm run watch
+> npm run watch
 ```
