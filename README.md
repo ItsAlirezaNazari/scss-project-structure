@@ -4,8 +4,6 @@
 ```
 > npm install
 
-and
-
 > sass ./assets/scss:./assets/css
 ```
 
