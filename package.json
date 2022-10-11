@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "sass -w ./assets/scss:./assets/css"
+    "watch": "sass -w ./assets/scss:./assets/css",
+    "sass": "sass ./assets/scss:./assets/css"
   },
   "keywords": [],
   "author": "",

@@ -4,7 +4,7 @@
 ```
 > npm install
 
-> sass ./assets/scss:./assets/css
+> npm run sass
 ```
 
 ### To watch scss files
